@@ -1,0 +1,6 @@
+{
+  "name": "Noire-AI помощник",
+  "description": "Мультимодальный AI-помощник Noire-AI для решения задач по тексту, фото и скриншотам с поддержкой нескольких чатов, аккаунтов и тем оформления.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
